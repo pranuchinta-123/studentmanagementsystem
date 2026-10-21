@@ -1,1 +1,2 @@
-project description
+Student Management System - Registration
+
