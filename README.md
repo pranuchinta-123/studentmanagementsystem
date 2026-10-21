@@ -1,2 +1,2 @@
-Student Management System - Registration
-
+Student Management System
+Features: Registration and Search
